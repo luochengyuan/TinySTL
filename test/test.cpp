@@ -1,5 +1,6 @@
 #include"../STL/allocator.h"
 #include<iostream>
+#include"../mySTL/allocator.h"
 using namespace MYSTL;
 
 int main(){
